@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **CV. Tauhid Mizan**
 
-- 🌱 I’m currently learning **Youtube Video**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DayatDC/My-Project](https://github.com/DayatDC/My-Project)
 
