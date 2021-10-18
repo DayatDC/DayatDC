@@ -3,23 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dayatdc&label=Profile%20views&color=0e75b6&style=flat" alt="dayatdc" /> </p>
 
-- 🔭 I’m currently working on **CV. Tauhid Mizan**
+- 🔭 I’m currently working on **Freelance**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science and Data Analyst**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DayatDC/My-Project](https://github.com/DayatDC/My-Project)
+- 👨‍💻 All of my projects are available at [https://github.com/DayatDC/My-Project](https://github.com/DayatDC)
 
-- 💬 Ask me about **Data Science, Kalibrasi, CPNS**
+- 💬 Ask me about **Data Science, Kalibrasi, CPNS, Investing, Trading**
 
-- 📫 How to reach me **dayatsmalix@gmail.com**
+- 📫 How to reach me **dayatsmalix@gmail.com, 085781872585**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-hidayat-023b16140/](https://www.linkedin.com/in/muhammad-hidayat-023b16140/)
 
-- ⚡ Fun fact **Kembar**
+- ⚡ Fun fact **Job Seeker**
 
 | 🎓 Courses | [DQLab]() · [Dicoding]() · [Digital Skola]() |
 |:--------|:--------------------|
-| ⚙ Projects | - | 
+| ⚙ Projects | - Home Credit Default Risk | 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
